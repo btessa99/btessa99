@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Benedetta Tessa
-- 👀 I’m interested in Machine Learning and ethical issues concerning AI applications.
+- 👀 I’m interested in Machine Learning, Ethics AI and applications concerning Healthcare and Mental Health.
 - 🌱 I’m currently studying Artificial Intelligence and Data Engineering.
 - 📫 How to reach me benedetta.tessa@gmail.com
 
