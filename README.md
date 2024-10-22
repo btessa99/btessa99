@@ -1,7 +1,7 @@
 - 👋 Hello! I’m Benedetta
-- 👀 I’m interested in Machine Learning.
-- 🌱 I have just graduated in Artificial Intelligence and Data Engineering at the University of Pisa.
-- 📫 Email me at: benedetta.tessa@gmail.com. Bye!
+- 👀 My main research interests are content moderation and social media analysis.
+- 🌱 I graduated in Artificial Intelligence and Data Engineering at the University of Pisa.
+- :computer:  PhD student at University of Pisa/IIT-CNR
 
 <!---
 btessa99/btessa99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
